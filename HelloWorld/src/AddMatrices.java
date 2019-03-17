@@ -50,6 +50,8 @@ public class AddMatrices {
 		else
 			System.out.println("Two matrices must have the same dimnesions"
 					+ " to be added together" );
+		
+		in.close();
 
 	}
 
